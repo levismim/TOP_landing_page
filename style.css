@@ -1,0 +1,43 @@
+.header, footer {
+    background-color: #1F2937;
+}
+
+.header h1 {
+    font-size: 24px;
+    color: #F9FAF8; 
+}
+
+.header a {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+}
+
+.main-text h1 {
+font-size: 48px;
+color: #F9FAF8;
+font-weight: 900;
+}
+
+.main-text p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.cta {
+    background-color: #3882F6;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border: 2px solid #3882F6;
+    border-radius: 10px;
+}
